@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bangkit Story</string>
+    <string name="title_login_page">Mari berbagi cerita!</string>
+    <string name="email">email</string>
+    <string name="password">kata sandi</string>
+    <string name="login">Masuk</string>
+    <string name="title_register_page">Isi data diri Anda terlebih dahulu!</string>
+    <string name="name">nama</string>
+    <string name="signup">Daftar</string>
+    <string name="title_welcome_page">Selamat datang di Bangkit Story!</string>
+    <string name="message_welcome_page">Mari berbagi cerita Bangkit dengan Bangkit Story. Abadikan dan bagikan momen belajar di Studi Independen Bangkit Anda!</string>
+    <string name="logout">Keluar</string>
+    <string name="upload">Unggah</string>
+    <string name="description">Deskripsi</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="invalid_email_address">Alamat email tidak valid</string>
+    <string name="password_error">Kata sandi tidak boleh kurang dari 8 karakter</string>
+    <string name="email_empty">Email tidak boleh kosong</string>
+    <string name="password_empty">Kata sandi tidak boleh kosong</string>
+    <string name="name_empty">Nama tidak boleh kosong</string>
+    <string name="register_succes">Anda telah berhasil mendaftar!</string>
+    <string name="continuee">Lanjut</string>
+    <string name="permission_request_granted">Permission request granted</string>
+    <string name="upload_success">Sukses Mengunggah</string>
+    <string name="insert_image_first">Masukkan gambar terlebih dahulu!</string>
+    <string name="language">Bahasa</string>
+</resources>

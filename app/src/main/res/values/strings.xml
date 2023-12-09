@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Bangkit Story</string>
+    <string name="title_login_page">Let\'s share our stories!</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="title_register_page">Fill out your details first!</string>
+    <string name="name">name</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_welcome_page">Welcome to Bangkit Story!</string>
+    <string name="message_welcome_page">Let\'s share Bangkit stories with Bangkit Story. Capture and share learning moments in your Bangkit Independent Study.</string>
+    <string name="logout">Logout</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="invalid_email_address">Invalid email address</string>
+    <string name="password_error">Password cannot be less than 8 characters</string>
+    <string name="email_empty">Email cannot be empty</string>
+    <string name="password_empty">Password cannot be empty</string>
+    <string name="name_empty">Name cannot be empty</string>
+    <string name="register_succes">You have successfully registered!</string>
+    <string name="continuee">Continue</string>
+    <string name="permission_request_granted">Permission request granted</string>
+    <string name="upload_success">Upload Success</string>
+    <string name="insert_image_first">Insert image first</string>
+    <string name="language">Language</string>
+    <string name="map">Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Retry</string>
+    <string name="share_location">Do you want share your location?</string>
+</resources>
